@@ -1,0 +1,39 @@
+
+{
+    "nombreyApellidos": "Vanessa del Rosario Dominguez Arias",
+    "fechaNacimiento": "07/10/2000",
+    "Perfil": "Técnico en soporte y mantenimiento de equipo de computo Ingeniero en software multiplataforma",
+    
+    "datosPersonales": [
+        {
+            "telefono": "9842337252",
+            "dirección": "Mundo habitatt, calle cuba#14, playa del carmen Quintana Roo",
+            "correoElectronico": "vanearias1232@gmail.com"
+        }
+    ],
+    "estudiosRealizados": [
+        {
+            "titulo": "técnico en soporte y mantenimiento de equipos de cómputo",
+            "preparatoria": "Cecyte Playa del Carmen 1",
+            "fechaIngreso": "2017",
+            "fechaFinalizacion": "2019"
+        }
+    ],
+
+            "lenguajesDeProgramación": [
+                "java",
+                "html",
+                "css"
+            ],
+            "baseDedatos": [
+                "Mysql",
+                "Sqlserver"
+            ],
+            "ExperienciaLaboral": [
+                {
+                    "cargo": "Atención al cliente",
+                    "Funciones": "Atender al cliente, Administrar productos",
+                    "tiempoLaborando": "1 año"
+                }
+            ]
+        }
